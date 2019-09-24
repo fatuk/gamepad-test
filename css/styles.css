@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  position: relative;
+  background: rgb(228, 228, 228);
+}
+
+.player {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 30px;
+  height: 30px;
+  background: orange;
+}
